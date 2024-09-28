@@ -116,7 +116,6 @@ The resulting `output.json` file will look like:
         "kts": "218",
         "mph": "251"
     },
-    // More entries...
 ]
 ```
 
